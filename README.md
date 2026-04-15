@@ -20,6 +20,5 @@
 (https://open.data.gov.sa/en/datasets/view/c37812ec-278f-4d49-87eb-fa964bae2b13)[منصة البيانات المفتوحة]
 
 
-## Project Link
 
-[اضغط هنا لعرض المشروع](https://github.com/nada/project)
+[منصة البيانات المفتوحه](https://open.data.gov.sa/en/datasets/view/c37812ec-278f-4d49-87eb-fa964bae2b13)
