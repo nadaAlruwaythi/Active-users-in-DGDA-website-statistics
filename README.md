@@ -3,4 +3,4 @@
 تُستخدم هذه البيانات لتحليل اتجاهات الاستخدام، وفهم سلوك المستخدمين، وتقييم أداء الموقع الرقمي بمرور الوقت، مما يساهم في دعم اتخاذ القرارات المتعلقة بتحسين تجربة المستخدم وزيادة كفاءة الخدمات المقدمة.
 
 # 🖼️ وصف لوحة المعلومات
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1d533132-a0fc-4c8e-bbe6-90a497e9df40" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/1d533132-a0fc-4c8e-bbe6-90a497e9df40" />
