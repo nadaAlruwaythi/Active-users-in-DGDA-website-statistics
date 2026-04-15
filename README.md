@@ -17,7 +17,7 @@
 
 # 📂 مصدر البيانات
 تم الحصول على البيانات المستخدمة في هذا المشروع من منصة البيانات المفتوحة https://open.data.gov.sa/en/datasets/view/c37812ec-278f-4d49-87eb-fa964bae2b13 
-(https://open.data.gov.sa/en/datasets/view/c37812ec-278f-4d49-87eb-fa964bae2b13) ] [منصة البيانات المفتوحة]
+(https://open.data.gov.sa/en/datasets/view/c37812ec-278f-4d49-87eb-fa964bae2b13)[منصة البيانات المفتوحة]
 
 
 ## Project Link
